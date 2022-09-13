@@ -10,6 +10,7 @@ djangorestframework = "*"
 pillow = "*"
 django-adminlte-3 = "*"
 django-jazzmin = "*"
+whitenoise = "*"
 
 [dev-packages]
 
